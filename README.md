@@ -95,7 +95,7 @@ tenho parcerias com fotografos.
 <br/ >
 
 
- ## 📬 If you want to call me to carry out a project or just talk, these are my contacts:
+ ## 📬 Contato
 
 <details>
  <summary>Clique para ver detalhes</summary>
