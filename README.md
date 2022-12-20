@@ -23,14 +23,14 @@ tenho parcerias com fotografos.
 
 
 ### 🎯 Areas de Interesse
-- Programador Junior Front-end
-- Programador Junior Back-end
+- Estágio programador Front-end
+- Estágio programador Back-end
 - Web Design - UX & UI
 
 
 
 ### ✍️ Estudando Recentemente
-  -  Java && PHP && AWS e Unity;
+  -  Java && PHP && AWS e React;
 
 
 
