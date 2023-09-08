@@ -11,26 +11,20 @@
 
 
 
-## 👾 Sobre Mim
-Meu nome é Bernardo Ferreira Ribeiro e atualmente estou em minha jornada em busca de uma empresa para
-me estabilizar e crescer. Tenho bons projetos e tanto áreas no front-end como no back-end me agradariam.
-Eu particularmente amo Front, porem tenho projetos que exigem mais de back, portanto seria maravilhoso poder aprender mais sobre Back.
-
-Atualmente estudo na PUCPR cursando ADS, estou cusando inglês na influx, e tenho uma loja virtual de Design Gráfico onde faço freelances, e
-tenho parcerias com fotografos.
+## 👾 About Me
+I currently work with SAP, my specialty is with Spartacus/Angular, but I've already done some back-end tasks. My knowledge in Java Script and CSS are advanced too. I like to learn, I don't have a favorite language because for me they are just tools to solve problems. What I really enjoy is the journey from investigation to fixing a bug on the backend or seeing the visual results of my work on the frontend. I also have a virtual design store where I do free-lance
 
 
 
 
-### 🎯 Areas de Interesse
-- Estágio programador Front-end
-- Estágio programador Back-end
+### 🎯 Areas of interest
+- Front-end programmer Junior
+- Back-end programmer Junior
 - Web Design - UX & UI
 
 
-
-### ✍️ Estudando Recentemente
-  -  Java && PHP && AWS e React;
+### ✍️ Studying Recently
+  - Java && Spring Boot && AWS and React;
 
 
 
@@ -80,25 +74,25 @@ tenho parcerias com fotografos.
  <summary>Click to see details</summary>
  <br />      
 
-✅ Trabalha bem em equipe
+✅ Works well in a team
 
-✅ Boa comunicação e fonética
+✅ Good communication and phonetics
 
-✅ Pró-atividade
+✅ Proactivity
 
-✅ Curioso e determinado
+✅ Curious and determined
 
-✅ Gosta de Resolver problemas
+✅ Likes to Solve Problems
 </details>
 <hr>
 <br/ >
 
 
- ## 📬 Contato
+## 📬 Contact
 
 <details>
- <summary>Clique para ver detalhes</summary>
- <br />      
+ <summary>Click to view details</summary>
+ <br />
        
  <p align="center">
     <a href="https://github.com/bernardoffer">
