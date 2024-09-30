@@ -22,9 +22,7 @@ Always seeking to evolve, I am motivated by complex challenges and the opportuni
 
 
 ### 🎯 Areas of interest
-- Front-end programmer Junior
-- Back-end programmer Junior
-- Web Design - UX & UI
+- Hybris
 
 
 ### ✍️ Studying Recently
