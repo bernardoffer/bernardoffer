@@ -12,7 +12,11 @@
 
 
 ## 👾 About Me
-I currently work with SAP, my specialty is with Spartacus/Angular, but I've already done some back-end tasks. My knowledge in Java Script and CSS are advanced too. I like to learn, I don't have a favorite language because for me they are just tools to solve problems. What I really enjoy is the journey from investigation to fixing a bug on the backend or seeing the visual results of my work on the frontend. I also have a virtual design store where I do free-lance
+Hello, my name is Bernardo.With a solid track record in the development and support of Hybris systems, I am currently a Hybris Sustaining Analyst at Claro Brasil, working as a back-end developer focused on maintenance and production monitoring. My experience ranges from developing new features to analyzing and solving critical bugs in production environments, ensuring the stability and continuity of services.
+
+Throughout my career, I have participated in prominent international projects, such as Caixabank in Spain and Logista in France, where I acquired expertise in technologies such as Angular, JSP, Java, and SAP Commerce. My focus is to ensure the integrity and efficiency of systems, using tools such as Dynatrace and Kibana to monitor and prevent failures.
+
+Always seeking to evolve, I am motivated by complex challenges and the opportunity to innovate and optimize processes in large-scale systems.
 
 
 
